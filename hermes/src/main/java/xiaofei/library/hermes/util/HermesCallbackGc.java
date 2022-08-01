@@ -19,10 +19,9 @@
 package xiaofei.library.hermes.util;
 
 import android.os.RemoteException;
-import android.support.v4.util.Pair;
+import androidx.core.util.Pair;
 
 import java.lang.ref.PhantomReference;
-import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
 import java.util.ArrayList;
 import java.util.HashMap;

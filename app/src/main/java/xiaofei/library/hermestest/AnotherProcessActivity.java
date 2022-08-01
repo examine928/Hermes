@@ -1,8 +1,8 @@
 package xiaofei.library.hermestest;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
 import xiaofei.library.hermes.Hermes;
 import xiaofei.library.hermestest.test.C;
 import xiaofei.library.hermestest.test.NewInstance;

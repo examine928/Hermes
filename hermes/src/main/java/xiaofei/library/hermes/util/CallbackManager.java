@@ -18,7 +18,7 @@
 
 package xiaofei.library.hermes.util;
 
-import android.support.v4.util.Pair;
+import androidx.core.util.Pair;
 import android.util.Log;
 
 import java.lang.ref.WeakReference;
